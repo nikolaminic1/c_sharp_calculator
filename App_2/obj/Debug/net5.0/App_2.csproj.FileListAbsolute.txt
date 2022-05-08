@@ -1,0 +1,16 @@
+C:\Users\minic\Dev\C#\project2\App_2\App_2\bin\Debug\net5.0\App_2.exe
+C:\Users\minic\Dev\C#\project2\App_2\App_2\bin\Debug\net5.0\App_2.deps.json
+C:\Users\minic\Dev\C#\project2\App_2\App_2\bin\Debug\net5.0\App_2.runtimeconfig.json
+C:\Users\minic\Dev\C#\project2\App_2\App_2\bin\Debug\net5.0\App_2.runtimeconfig.dev.json
+C:\Users\minic\Dev\C#\project2\App_2\App_2\bin\Debug\net5.0\App_2.dll
+C:\Users\minic\Dev\C#\project2\App_2\App_2\bin\Debug\net5.0\ref\App_2.dll
+C:\Users\minic\Dev\C#\project2\App_2\App_2\bin\Debug\net5.0\App_2.pdb
+C:\Users\minic\Dev\C#\project2\App_2\App_2\obj\Debug\net5.0\App_2.csproj.AssemblyReference.cache
+C:\Users\minic\Dev\C#\project2\App_2\App_2\obj\Debug\net5.0\App_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minic\Dev\C#\project2\App_2\App_2\obj\Debug\net5.0\App_2.AssemblyInfoInputs.cache
+C:\Users\minic\Dev\C#\project2\App_2\App_2\obj\Debug\net5.0\App_2.AssemblyInfo.cs
+C:\Users\minic\Dev\C#\project2\App_2\App_2\obj\Debug\net5.0\App_2.csproj.CoreCompileInputs.cache
+C:\Users\minic\Dev\C#\project2\App_2\App_2\obj\Debug\net5.0\App_2.dll
+C:\Users\minic\Dev\C#\project2\App_2\App_2\obj\Debug\net5.0\ref\App_2.dll
+C:\Users\minic\Dev\C#\project2\App_2\App_2\obj\Debug\net5.0\App_2.pdb
+C:\Users\minic\Dev\C#\project2\App_2\App_2\obj\Debug\net5.0\App_2.genruntimeconfig.cache
